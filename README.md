@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/82948471/203547869-ee40244c-ee12-44ca-a18b-36e3fcd9241a.png)
 
 
-### Home Page
+### Home Page 
 
 ![Home](https://raw.githubusercontent.com/Harendra84/assignment-kaiburr/main/screenshots/frontend/home.png)
 
